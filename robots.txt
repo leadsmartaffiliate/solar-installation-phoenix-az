@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://solar-installation-phoenix-az.netlify.app/sitemap.xml
